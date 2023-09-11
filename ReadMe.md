@@ -4,6 +4,8 @@ Day #1
 **Progress as of now 👇**
 - able to create a basic setup of threeJS.
 - able to add camera controls, box, axesHelpers in the scene.
+- able to animate the box object
+![progress-day-1](https://github.com/kuldeepjambhulkar/ThreeJS/assets/89466207/44b3c21c-d5b7-4bd4-9384-1e15fa399cf8)
 
 
 **Create renderer 👇**
